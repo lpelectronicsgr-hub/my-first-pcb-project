@@ -1,0 +1,23 @@
+# KiCad backups
+*-backups/
+*.bak
+*.kicad_prl
+fp-info-cache
+*.kicad_pcb-bak
+
+# Generated outputs
+*.gbr
+*.drl
+*.gbrjob
+*.pdf
+*.step
+*.stp
+production/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+*.swp
+*~
